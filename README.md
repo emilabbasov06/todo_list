@@ -1,5 +1,13 @@
-# Simple Todo App with Vite + React
+## Todo List App
 
-I have built this app using React. Also used localStorage to store data on clients phone or laptop.
+### Description
+This is a ReactJS-based Todo List application. It allows users to create, manage, and delete tasks. Data is stored locally in the browser using localStorage, ensuring tasks persist across sessions.
 
-Live link: https://todo-list-kohl-delta-24.vercel.app/
+### Technologies Used
+- ReactJS
+- LocalStorage
+
+### Features
+- Add, edit, and delete tasks.
+- Tasks persist even after the browser is closed.
+- User-friendly interface.
